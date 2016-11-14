@@ -26,7 +26,7 @@ define('DB_NAME', 'nuevagestionwp');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'emiliano');
+define('DB_PASSWORD', '32158677');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

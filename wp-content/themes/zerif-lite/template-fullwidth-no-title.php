@@ -1,4 +1,4 @@
-<?php
+ONE OF THE TOP 10 MOST POPULAR THEMES ON WORDPRESS.ORG<?php
 /**
  * Template Name: Full width with no title template
  */
